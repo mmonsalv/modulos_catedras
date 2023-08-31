@@ -274,3 +274,5 @@ def nombres2(num):
     else:
         return None
 
+print("Modulo cargado exitosamente. Funciones:")
+print("referencias_apa\nreferencias_van\nreferencias_titulos\nnombre21\nnombres2")
