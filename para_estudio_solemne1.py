@@ -274,5 +274,5 @@ def nombres2(num):
     else:
         return None
 
-print("Modulo cargado exitosamente. Funciones:")
-print("referencias_apa\nreferencias_van\nreferencias_titulos\nnombre21\nnombres2")
+print("Modulo cargado exitosamente!\nFunciones:")
+print(" referencias_apa\n referencias_van\n referencias_titulos\n nombre21\n nombres2")
